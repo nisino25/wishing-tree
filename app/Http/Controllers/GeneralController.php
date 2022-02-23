@@ -326,7 +326,7 @@ class GeneralController extends Controller{
 			$wishId = $_GET['id'];
 			\App\Models\Wishes::where('id', $wishId)->update(['is_deleted' => 0]);
 			header("Location: ./mypage");
-      die();
+      die(); 
 		}
 
     public function contact(){
