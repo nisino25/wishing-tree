@@ -13,7 +13,7 @@
   <header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
       <div class="col-4 pt-1">
-        <a class="text-muted" href="/">Wishing Tree</a>
+        <a class="text-muted" href="/">Wishing-Tree</a>
         <?php if (isset($_COOKIE["is_logined"])) {
             echo ' &nbsp;&nbsp<span class=" " style="margin-right:20px">ようこそ  ' .  $_COOKIE['username']. 'さん !</span>';
         }?>
