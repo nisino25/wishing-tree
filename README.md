@@ -28,7 +28,11 @@ phpMyAdminに上のデータベースを作り、入っているsqlをインポ�
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
-pip install huga_package
+composer install
+```
+
+```bash
+php artisan serve
 ```
  
 # Usage
