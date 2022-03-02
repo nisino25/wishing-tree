@@ -31,5 +31,13 @@ composer install
 ```bash
 php artisan serve
 ```
+
+# 設計図
+ 
+ 1. ER図
+ 
+ 2. 画面仕様書
+ 
+ 3. 画面遷移図
  
 
