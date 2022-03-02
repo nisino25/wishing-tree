@@ -17,7 +17,7 @@ XAMPP/MySQL/PHP/Visual Studio Code
 # データベース
 
 データベース : wishing_tree.sql
-phpMyAdminに上のデータベースを作り、入っているDB.sqlをインポートしていただければお使いいただけるようになると思います。
+phpMyAdminに上のデータベースを作り、入っているsqlをインポートしていただければお使いいただけるようになると思います。
  
  
 * huga 3.5.2
