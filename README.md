@@ -69,9 +69,10 @@
 ２−３週間程度
 １日２−４時間
  
-# Features
+# 環境
  
-"hoge"のセールスポイントや差別化などを説明する
+ 
+XAMP/MySQL/PHP/Visual Studio Code
  
 # Requirement
  
